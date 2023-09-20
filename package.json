@@ -1,0 +1,26 @@
+{
+  "name": "element-template",
+  "version": "1.0.0",
+  "description": "Element Template Creator",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "scripts": {},
+  "keywords": [
+    "element template",
+    "html template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferhataltundal/element-template.git"
+  },
+  "files": [
+    "dist /**/*"
+  ],
+  "author": {
+    "name": "Ferhat ALTUNDAL",
+    "email": "ferolinka1850@hotmail.com",
+    "url": "https://github.com/ferhataltundal"
+  },
+  "license": "ISC"
+}
